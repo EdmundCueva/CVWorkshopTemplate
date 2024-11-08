@@ -4,12 +4,13 @@ layout: homepage
 
 ## About Me
 
-Testing here
+Dog owner, classicist.
 
 ## Research Interests
 
 - **Computer Vision:** image recognition, image generation, video captioning
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Horror:** Film and literature fan.
 
 {% include_relative _includes/education.md %}
 
